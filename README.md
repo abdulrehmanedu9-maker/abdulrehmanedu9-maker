@@ -24,7 +24,7 @@ Phase 1: https://github.com/abdulrehmanedu9-maker/Real-Time-Device-to-Device-Wir
 
 Phase 2: https://github.com/abdulrehmanedu9-maker/Real-Time-Device-to-Device-Wireless-Communication-System-Using-ESP-NOW-Protocol-Phase-2.git
 
-Phase 3: https://github.com/abdulrehmanedu9-maker/-Real-Time-Device-to-Device-Wireless-Communication-System-Using-ESP-NOW-Protocol-Phase-3.git
+Phase 3: https://github.com/abdulrehmanedu9-maker/Real-Time-Device-to-Device-Wireless-Communication-System-Using-ESP-NOW-Protocol-Phase-3.git
 
 Phase 4: https://github.com/abdulrehmanedu9-maker/Real-Time-Device-to-Device-Wireless-Communication-System-Using-ESP-NOW-Protocol-Phase-4.git
 
