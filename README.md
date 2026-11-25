@@ -4,7 +4,7 @@ BS Computer Science student at Allama Iqbal Open University, based in Rawalpindi
 
 ## What I work with
 
-Languages: Python, C++, Java, SQL
+Languages: Python, C++, SQL
 IoT and embedded: ESP8266, Arduino C++, ESP-NOW, ultrasonic and PIR sensors
 Networking: IP addressing, DHCP, RIP routing, Cisco Packet Tracer
 Data and ML: scikit-learn, Isolation Forest, Decision Tree, TinyML (basic level)
