@@ -34,6 +34,12 @@ Multiple university campuses connected in Cisco Packet Tracer, with RIP dynamic 
 
 Code and files: https://github.com/abdulrehmanedu9-maker/Multi-Campus-Network-Simulation
 
+### Python CLI Projects
+
+Three command line applications in Python: an ATM simulation with PIN verification and transaction history, a to-do list manager that stores tasks in a JSON file, and a cafe ordering system with a printed receipt.
+
+Code and files: https://github.com/abdulrehmanedu9-maker/Python-CLI-Projects
+
 ## Contact
 
 Email: abdul.rehman.edu9@gmail.com
